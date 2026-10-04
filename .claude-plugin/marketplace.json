@@ -1,0 +1,13 @@
+{
+  "name": "nuxt-workspace",
+  "owner": {
+    "name": "Michael Nji"
+  },
+  "plugins": [
+    {
+      "name": "nuxt-workspace",
+      "source": "./",
+      "description": "Skills and scoped coding rules for working in Nuxt workspaces."
+    }
+  ]
+}
