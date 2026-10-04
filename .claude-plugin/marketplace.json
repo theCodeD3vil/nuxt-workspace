@@ -1,13 +1,21 @@
 {
   "name": "nuxt-workspace",
   "owner": {
-    "name": "Michael Nji"
+    "name": "Michael Nji",
+    "url": "https://github.com/theCodeD3vil"
+  },
+  "metadata": {
+    "description": "Skills and scoped coding rules for working in Nuxt workspaces."
   },
   "plugins": [
     {
       "name": "nuxt-workspace",
       "source": "./",
-      "description": "Skills and scoped coding rules for working in Nuxt workspaces."
+      "description": "Skills and scoped coding rules for working in Nuxt workspaces.",
+      "author": {
+        "name": "Michael Nji",
+        "url": "https://github.com/theCodeD3vil"
+      }
     }
   ]
 }

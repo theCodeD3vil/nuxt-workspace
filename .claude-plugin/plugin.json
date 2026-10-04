@@ -1,5 +1,9 @@
 {
   "name": "nuxt-workspace",
   "version": "0.1.0",
-  "description": "Claude Code plugin for working in Nuxt workspaces."
+  "description": "Claude Code plugin for working in Nuxt workspaces.",
+  "author": {
+    "name": "Michael Nji",
+    "url": "https://github.com/theCodeD3vil"
+  }
 }
